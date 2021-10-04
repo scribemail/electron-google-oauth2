@@ -21,6 +21,7 @@
     "access token"
   ],
   "devDependencies": {
+    "@electron/remote": "^2.0.1",
     "electron": "^7.1.11",
     "typescript": "^3.7.5"
   },
