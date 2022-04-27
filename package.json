@@ -22,7 +22,7 @@
   ],
   "devDependencies": {
     "@electron/remote": "^2.0.1",
-    "electron": "^7.1.11",
+    "electron": "^13.6.6",
     "typescript": "^3.7.5"
   },
   "dependencies": {
